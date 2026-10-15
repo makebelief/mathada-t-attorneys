@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Social sharing bots can access the page and OG image; HTML uses noindex pending client approval.
